@@ -1,0 +1,3 @@
+mysql-connector-python>=8.0
+# Note: `tkinter` is part of the Python standard library on most platforms.
+# If your OS doesn't include it, install the appropriate system package (see README.md).
